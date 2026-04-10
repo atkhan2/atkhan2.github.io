@@ -10,7 +10,7 @@ title: Homework Visualization
 </p>
 
 <p>
-<a href="https://github.com/atkhan2/atkhan2.github.io/blob/main/python_notebooks/hw_visualization.ipynb">File for making plots</a>
+<a href="https://github.com/atkhan2/atkhan2.github.io/blob/main/hw5.ipynb">File for making plots</a>
 </p>
 
 <h2>Plot 1</h2>
